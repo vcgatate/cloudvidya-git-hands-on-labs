@@ -1,3 +1,1 @@
-CloudVidya Academy
-Lab 4 : connecting local and remote git repo
-Github remote push success
+Modified app.txt after clone
