@@ -1,1 +1,2 @@
 Modified app.txt after clone
+This is from remote branch
