@@ -1,7 +1,7 @@
 # CloudVidya Git Hands-on Labs
 
 Welcome to CloudVidya Academy's Git training series.
-
+This is on Oct 27th
 ## Topics
 - Git installation and configuration
 - Repositories and commits
