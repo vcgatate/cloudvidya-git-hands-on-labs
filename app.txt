@@ -1,2 +1,7 @@
 Modified app.txt after clone
+<<<<<<< HEAD
 This is from local branch
+
+This is from remote branch
+>>>>>>> 8f632fdd40af8ebce1a32574db6aaf4e79a69b1b
+Local and remote changes reviewed 
